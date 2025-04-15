@@ -35,10 +35,6 @@ java EmployeeManagementSystem
 
 ---
 
-2. Banking System
-
-README.md
-
 # Banking System Console Application
 
 A Java-based console banking system that supports creating multiple accounts, performing transactions, and managing user data with a unique account number system.
@@ -73,10 +69,6 @@ java BankingSystem
 
 
 ---
-
-3. Online Shopping Cart
-
-README.md
 
 # Online Shopping Cart (Console Based)
 
