@@ -28,10 +28,6 @@ javac EmployeeManagementSystem.java
 
 java EmployeeManagementSystem
 
-## Author
-
-- Developed by Kaustubh Tiwari
-
 
 ---
 
@@ -62,10 +58,6 @@ javac BankingSystem.java
 2. Run the application:
 
 java BankingSystem
-
-## Author
-
-- Developed by Kaustubh Tiwari
 
 
 ---
