@@ -1,9 +1,5 @@
 ---
 
-1. Employee Management System
-
-README.md
-
 # Employee Management System
 
 A simple Java console application for managing employees in an organization. This application allows the user to add, view, update, and delete employee records using an interactive menu system.
